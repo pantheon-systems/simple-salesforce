@@ -8,7 +8,8 @@ from simple_salesforce.api import (
 )
 
 from simple_salesforce.bulk import (
-    SFBulkHandler
+    SFBulkHandler,
+    SFBulkType
 )
 
 from simple_salesforce.login import (
